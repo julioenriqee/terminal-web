@@ -4,14 +4,17 @@ body {
     min-height: 99%;
     width: 100%;
     min-width: 550px;
+    display: flex;
+    flex-direction: column;
     color: #519975;
-    background: #211D1B;
+    background: #000000;
     font-family: cursor, monospace;
     overflow-x: hidden;
   }
   ::selection {
     color: #211830;
     background-color: #519975;
+    
   }
   ::-moz-selection {
     color: #211830;
@@ -20,10 +23,12 @@ body {
   textarea {
     left: -1000px;
     position: absolute;
+    
   }
   b {
     font-weight: bold;
     text-decoration: underline;
+    
   }
   /* Cursor Start */
   .cursor {
@@ -61,7 +66,7 @@ body {
   }
   #liner::before {
     color: #519975;
-    content: "visitor@fkcodes.com:~$";
+    content: "PS C:/Users/enrique>";
   }
   #liner.password::before {
     content: "Password:";

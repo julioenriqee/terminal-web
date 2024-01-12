@@ -55,7 +55,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("visitor@fkcodes.com:~$ " + command.innerHTML, "no-animation", 0);
+      addLine("PS C:/Users/enrique>~$ " + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
@@ -82,10 +82,10 @@ function commander(cmd) {
     case "help":
       loopLines(help, "color2 margin", 80);
       break;
-    case "whois":
+    case "jota":
       loopLines(whois, "color2 margin", 80);
       break;
-    case "whoami":
+    case "whoaim":
       loopLines(whoami, "color2 margin", 80);
       break;
     case "video":
@@ -117,7 +117,7 @@ function commander(cmd) {
       addLine("<br>", "command", 80 * commands.length + 50);
       break;
     case "email":
-      addLine('Opening mailto:<a href="mailto:forrest@fkcodes.com">forrest@fkcodes.com</a>...', "color2", 80);
+      addLine('Abriendo mail :<a href="mailto:enriquejulio071@gmail.com">julioenrique@gmail.com</a>...', "color2", 80);
       newTab(email);
       break;
     case "clear":
@@ -130,10 +130,6 @@ function commander(cmd) {
       loopLines(banner, "", 80);
       break;
     // socials
-    case "youtube":
-      addLine("Opening YouTube...", "color2", 80);
-      newTab(youtube);
-      break;
     case "twitter":
       addLine("Opening Twitter...", "color2", 0);
       newTab(twitter);
