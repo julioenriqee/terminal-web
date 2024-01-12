@@ -58,8 +58,18 @@ help = [
 ];
 
 banner = [
-  '<span class="index">Julio Enrique (JE). Casi todos los derechos conservados.</span>',
-  
-  '<span class="color2">Bienvenido a mi interactiva terminal web</span>',
+  '<span class="index">Julio Enrique (JD). Casi todos los derechos conservados.</span>',
+  '______/&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;_______________________________________________________/&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;_________________________________      ',
+  '. _____&bsol;/////&bsol;&bsol;&bsol;///_______________________________________________________&bsol;/&bsol;&bsol;&bsol;////////&bsol;&bsol;&bsol;_______________________________      ',
+  '   _________&bsol;/&bsol;&bsol;&bsol;_______________________/&bsol;&bsol;&bsol;_______________________________&bsol;/&bsol;&bsol;&bsol;______&bsol;//&bsol;&bsol;&bsol;______________________________      ',
+  '.   _________&bsol;/&bsol;&bsol;&bsol;_________/&bsol;&bsol;&bsol;&bsol;&bsol;_____/&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;__/&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;______________&bsol;/&bsol;&bsol;&bsol;_______&bsol;/&bsol;&bsol;&bsol;_____/&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;___/&bsol;&bsol;&bsol;____/&bsol;&bsol;&bsol;_     ',
+  '     _________&bsol;/&bsol;&bsol;&bsol;_______/&bsol;&bsol;&bsol;///&bsol;&bsol;&bsol;__&bsol;////&bsol;&bsol;&bsol;////__&bsol;////////&bsol;&bsol;&bsol;_____________&bsol;/&bsol;&bsol;&bsol;_______&bsol;/&bsol;&bsol;&bsol;___/&bsol;&bsol;&bsol;/////&bsol;&bsol;&bsol;_&bsol;//&bsol;&bsol;&bsol;__/&bsol;&bsol;&bsol;__    ',
+  '      _________&bsol;/&bsol;&bsol;&bsol;______/&bsol;&bsol;&bsol;__&bsol;//&bsol;&bsol;&bsol;____&bsol;/&bsol;&bsol;&bsol;________/&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;____________&bsol;/&bsol;&bsol;&bsol;_______&bsol;/&bsol;&bsol;&bsol;__/&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;___&bsol;//&bsol;&bsol;&bsol;/&bsol;&bsol;&bsol;___   ',
+  '       __/&bsol;&bsol;&bsol;___&bsol;/&bsol;&bsol;&bsol;_____&bsol;//&bsol;&bsol;&bsol;__/&bsol;&bsol;&bsol;_____&bsol;/&bsol;&bsol;&bsol;_/&bsol;&bsol;___/&bsol;&bsol;&bsol;/////&bsol;&bsol;&bsol;____________&bsol;/&bsol;&bsol;&bsol;_______/&bsol;&bsol;&bsol;__&bsol;//&bsol;&bsol;///////_____&bsol;//&bsol;&bsol;&bsol;&bsol;&bsol;____  ',
+  '        _&bsol;//&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;_______&bsol;///&bsol;&bsol;&bsol;&bsol;&bsol;/______&bsol;//&bsol;&bsol;&bsol;&bsol;&bsol;___&bsol;//&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;/&bsol;&bsol;___________&bsol;/&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;/____&bsol;//&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;&bsol;____&bsol;//&bsol;&bsol;&bsol;_____ ',
+  '         __&bsol;/////////__________&bsol;/////_________&bsol;/////_____&bsol;////////&bsol;//____________&bsol;////////////_______&bsol;//////////______&bsol;///______',
+
+
+  '<span class="color2">Bienvenido a mi terminal web</span>',
   "<span class=\"color2\">Para la lista de comandos disponibles, tipea</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
