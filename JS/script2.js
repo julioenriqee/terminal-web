@@ -1,5 +1,5 @@
 var twitter = "https://twitter.com/enriqee_13";
-var password = "fkcodes";
+var password = "uwu";
 var linkedin = "https://www.linkedin.com/in/julio-enrique-54234a223/";
 var instagram = "https://www.instagram.com/julio.enriqee/?hl=es-la";
 var github = "https://github.com/julioenriqee";
@@ -11,13 +11,14 @@ whois = [
   "Soy un estudiantes de Ing en Sistemas. Me gusta la plata asi que por eso",
   "estudio esto y me la paso todo el dia en la pc :p",
   "Ademas soy un intento de gracioso pero al mismo tiempo serio asi que",
-  "si me ves serio es porque estoy pensando en algo gracioso que decir :p",
+  "si me ves serio es porque estoy pensando en algo gracioso que decir.",
   "<br>"
 ];
 
 whoami = [
   "<br>",
-  "No sos lo que ven de ti sino lo que piensas de ti, piensa y luego existe.",
+  "No sos lo que ven de ti sino lo que piensas de ti, piensa y luego existe",
+  "Na mentira no conozco pero espero que tengas un lindo dia.",
   "<br>"
 ];
 
@@ -32,7 +33,7 @@ social = [
 
 secret = [
   "<br>",
-  '<span class="command">sudo</span>           Only use if you\'re admin',
+  '<span class="command">bank</span>           Solo para administradores',
   "<br>"
 ];
 
@@ -51,7 +52,7 @@ help = [
   '<span class="command">projects</span>       Ver mis proyectos',
   '<span class="command">history</span>        Historial',
   '<span class="command">help</span>           Obviamente ya sabes lo que esto hace',
-  '<span class="command">email</span>          No envies nada :p',
+  '<span class="command">email</span>          No envies nada sino eres una empresa:p',
   '<span class="command">clear</span>          Limpia la terminal',
   '<span class="command">banner</span>         Despliega el banner',
   "<br>",

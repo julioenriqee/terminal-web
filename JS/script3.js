@@ -3,7 +3,6 @@ var liner = document.getElementById("liner");
 var command = document.getElementById("typer"); 
 var textarea = document.getElementById("texter"); 
 var terminal = document.getElementById("terminal");
-
 var git = 0;
 var pw = false;
 let pwd = false;
@@ -17,10 +16,10 @@ setTimeout(function() {
 window.addEventListener("keyup", enterKey);
 
 console.log(
-  "%cYou hacked my password!ðŸ˜ ",
+  " hackeaste mi contraseña ",
   "color: #04ff00; font-weight: bold; font-size: 24px;"
 );
-console.log("%cPassword: '" + password + "' - I wonder what it does?ðŸ¤”", "color: grey");
+console.log("%cPassword: '" + password + "' - Que hara?”", "color: grey");
 
 //init
 textarea.value = "";
@@ -45,7 +44,7 @@ function enterKey(e) {
       pw = false;
       liner.classList.remove("password");
     } else if (e.keyCode == 13) {
-      addLine("Wrong password", "error", 0);
+      addLine("Password incorrecto", "error", 0);
       command.innerHTML = "";
       textarea.value = "";
       pw = false;
@@ -92,10 +91,10 @@ function commander(cmd) {
       addLine("Opening YouTube...", "color2", 80);
       newTab(youtube);
       break;
-    case "sudo":
-      addLine("Oh no, you're not admin...", "color2", 80);
+    case "bank":
+      addLine("Accediendo a la cuenta bancaria de jota", "color2", 80);
       setTimeout(function() {
-        window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+        window.open('https://www.youtube.com/watch?v=35XFAkwmU4c');
       }, 1000); 
       break;
     case "social":
@@ -147,7 +146,7 @@ function commander(cmd) {
       newTab(github);
       break;
     default:
-      addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
+      addLine("<span class=\"inherit\">Comando invalido. Para ver la lista de comandos, tipea <span class=\"command\">'help'</span>.</span>", "error", 100);
       break;
   }
 }
