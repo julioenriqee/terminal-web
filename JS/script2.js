@@ -8,10 +8,10 @@ var email = 'mailto:enriquejulio071@gmail.com';
 whois = [
   "<br>",
   "Hola soy julio",
-  "Soy un estudiantes de ingenieria de sistemas de informacion.",
-  "Me gusta la programacion, la tecnologia y el desarrollo de software.",
-  "Soy un apasionado por la tecnologia y el desarrollo de software.",
-  "Me gusta aprender cosas nuevas y mejorar mis habilidades.",
+  "Soy un estudiantes de Ing en Sistemas. Me gusta la plata asi que por eso",
+  "estudio esto y me la paso todo el dia en la pc :p",
+  "Ademas soy un intento de gracioso pero al mismo tiempo serio asi que",
+  "si me ves serio es porque estoy pensando en algo gracioso que decir :p",
   "<br>"
 ];
 
@@ -44,7 +44,7 @@ projects = [
 
 help = [
   "<br>",
-  '<span class="command">jota</span>           ¿Quien es Julio?',
+  '<span class="command">jota</span>           ¿Quien es Jota?',
   '<span class="command">whoaim</span>         ¿Quien eres?',
   '<span class="command">social</span>         Mis redes sociales',
   '<span class="command">secret</span>         Solo para administradores',
